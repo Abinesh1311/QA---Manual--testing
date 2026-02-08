@@ -1,19 +1,37 @@
 Manual Testing Project – Weather Web Application
 
-This project focuses on manual testing of a weather web application.
-The objective is to validate the functionality, usability, and error handling
-of the application.
-Weather Web Application (API-based)
+Project Objective
+The objective of this project is to perform **manual testing** on a weather web application to ensure that the application functions correctly, handles errors properly, and provides accurate information to users.
 
-Manual Testing
-1 Test Scenarios
-2 Test Cases
-3  Bug Report (Sample)
+Application Tested
+   Weather Web Application (API‑based) 
+   Public weather application  
+   Displays real‑time weather details based on city name  
+   Uses third‑party weather API for data
+
+Testing Type
+  Manual Testing
+  Functional Testing
+  Basic Usability Testing
+
+Scope of Testing
+The following features were tested:
+  Search functionality using city name
+  API response handling
+  Weather details display (temperature, condition)
+  Error messages for invalid inputs
+  Application behavior on refresh
+
+Test Artifacts
+  Test Scenarios
+  Test Cases
+  Bug Report
 
 Tools Used
-1 Browser (Chrome)
-2 MS Excel / Google Sheets
-3 GitHub
+  Web Browser (Google Chrome)
+  GitHub
+  MS Excel / Google Sheets
 
 Status
-Testing in progress
+ Testing completed and documented successfully.
+
